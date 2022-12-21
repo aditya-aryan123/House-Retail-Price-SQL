@@ -23,3 +23,5 @@ Find out the postcode with the highest average price per sale? (Using Aggregate 
 Which year witnessed the lowest number of sales?
 
 Use the window function to deduce the top six postcodes by year's price.
+
+
